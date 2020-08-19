@@ -1,0 +1,8 @@
+name: ipyvolume
+channels:
+ - conda-forge
+dependencies:
+ - ipyvolume
+ - geopandas
+ - nest-asyncio
+ - ipywidgets>=6.0.0
