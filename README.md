@@ -8,7 +8,7 @@ Click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/g
 
 ## Notebooks index
 
- * **[Hikurangi Ruptures Demo using ipyvolume.ipynb](./Hikurangi%20Ruptures%20Demo%20using%20ipyvolume.ipynb)**
+ * **[Hikurangi Ruptures Demo with ipyvolume.ipynb](./Hikurangi%20Ruptures%20Demo%20with%20ipyvolume.ipynb)**
  
    Uses [ipyvolume](https://ipyvolume.readthedocs.io/en/latest/) to visualise and animate the Hikurangi subduction zone in 10km^2 or 30km^2 tiles.
 
