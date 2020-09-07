@@ -6,3 +6,5 @@ dependencies:
  - geopandas
  - nest-asyncio
  - ipywidgets>=6.0.0
+ - pathlib2
+ - meshio
