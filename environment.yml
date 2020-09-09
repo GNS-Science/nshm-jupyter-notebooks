@@ -9,4 +9,4 @@ dependencies:
  - ipywidgets>=6.0.0
  - pip
  - pip:
-    - git+https://github.com/GNS-Science/eq-fault-geom.git@willic3/add-shp-to-vtk
+    - git+https://github.com/GNS-Science/eq-fault-geom.git@willic3-add-shp-to-vtk
