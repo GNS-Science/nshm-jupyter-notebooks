@@ -5,10 +5,9 @@ dependencies:
  - ipyvolume
  - pyvista
  - geopandas
- - nest-asyncio
  - ipywidgets>=6.0.0
  - pathlib2
- - meshio
  - pip
  - pip:
-    - git+https://github.com/GNS-Science/eq-fault-geom.git@willic3-add-shp-to-vtk
+    - git+https://github.com/GNS-Science/eq-fault-geom.git@willic3_add_shp_to_vtk
+# - nest-asyncio
